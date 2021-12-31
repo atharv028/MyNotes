@@ -7,9 +7,19 @@
     <color name="teal_700">#FF018786</color>
     <color name="accent">#03dac5</color>
     <color name="grey">#CACACA</color>
+    <color name="text">#606570</color>
     <color name="colordarkblack">#10141c</color>
     <color name="colorlightblack">#171c26</color>
     <color name="white">#FFFFFFFF</color>
     <color name="yellow">#FFD633</color>
     <color name="blue">#4e33ff</color>
+
+    <color name="DefaultNoteColor">#606570</color>
+    <color name="BlueNoteColor">#4e33ff</color>
+    <color name="YellowNoteColor">#ffd633</color>
+    <color name="WhiteNoteColor">#ffffff</color>
+    <color name="PurpleNoteColor">#ae3b76</color>
+    <color name="GreenNoteColor">#0aebaf</color>
+    <color name="OrangeNoteColor">#ff7746</color>
+    <color name="BlackNoteColor">#202734</color>
 </resources>

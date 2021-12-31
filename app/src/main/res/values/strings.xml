@@ -4,6 +4,14 @@
     <string name="notes_title">Notes Title</string>
     <string name="notes_subtitle">Notes Subtitle</string>
     <string name="notes_desc">Enter your Note here…</string>
+    <string name="read_storage">This app needs access to your storage.</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="imgAdd">Add Image</string>
+    <string name="colorAdd">Pick Color</string>
+    <string name="linkAdd">Add Link</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="webUrl">Enter Web Url</string>
+    <string name="del">Delete Note</string>
 </resources>
